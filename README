@@ -1,0 +1,10 @@
+Redmine Recent History
+-------
+
+A Redmine plugin which utilizes javascript to maintain a list of recently viewed issues.
+
+Issue list appears in the sidebar.
+
+LICENSE
+-------
+This plugin is released under the GPL v2 license. 

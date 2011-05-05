@@ -1,3 +1,5 @@
+/* Copyright 2011 Dustin Lambert - Licensed under: GNU Public License 2.1 or later */
+
 var issueMatcher = new RegExp(/.*\/issues\/(\d+).*/gi);
 var currentIssue = null;
 var maxIssues = 10;
